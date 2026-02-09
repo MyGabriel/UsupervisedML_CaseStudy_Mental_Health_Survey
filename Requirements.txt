@@ -1,0 +1,11 @@
+# Technologies & Libraries Used
+
+        Python 3.x
+        Pandas – data loading, cleaning, and manipulation
+        NumPy – numerical operations
+        scikit-learn – preprocessing, PCA, and K-Means clustering
+        Matplotlib – data visualization
+        pandasgui – optional graphical data inspection
+
+# Install dependencies:
+        pip install pandas numpy scikit-learn matplotlib pandasgui
