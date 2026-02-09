@@ -113,7 +113,7 @@ licensing and usage terms._
 
 
 
-# IU-International University of Applied Sciences
-# Course Code: DLBDSMLUSL01
-# Author: Gabriel Manu
-# Matriculation ID: 9212512
+IU-International University of Applied Sciences
+ Course Code: DLBDSMLUSL01
+ Author: Gabriel Manu
+ Matriculation ID: 9212512
