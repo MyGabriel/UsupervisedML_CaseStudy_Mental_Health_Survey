@@ -1,4 +1,4 @@
-# Employee Mental Health Clustering Analysis**
+# Employee Mental Health Clustering Analysis
 
 This repository contains a Python-based data analysis and machine learning pipeline for exploring patterns in
 employee mental health survey data using unsupervised learning. The project focuses on data cleaning, feature
